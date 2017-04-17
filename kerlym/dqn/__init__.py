@@ -1,3 +1,4 @@
 import networks
-import worker
+from . import worker
+# import .worker
 import dqn 
